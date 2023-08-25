@@ -1,0 +1,3507 @@
+[CustomCards]
+	[    {
+	        "name": "Norn's Altar",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Norn%27s%20Altar.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Druid of the Winter Moon",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Centaur Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Druid%20of%20the%20Winter%20Moon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fridius, Telemin Master",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Legendary Artifact Creature — Vedalken Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Fridius%2c%20Telemin%20Master.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Memory of Avacyn",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{W}{W}",
+	        "type": "Enchantment Creature — Angel Avatar ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Memory%20of%20Avacyn.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Urza, Argivian Librarian",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Urza%2c%20Argivian%20Librarian.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "War Effort",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/War%20Effort.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mox Pearl",
+	        "rarity": "rare",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mox%20Pearl.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mox Jet",
+	        "rarity": "rare",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mox%20Jet.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mox Ruby",
+	        "rarity": "rare",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mox%20Ruby.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mox Emerald",
+	        "rarity": "rare",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mox%20Emerald.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Black Lotus",
+	        "rarity": "rare",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Black%20Lotus.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Time Marauder",
+	        "rarity": "rare",
+	        "mana_cost": "{X}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Time%20Marauder.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Aged Chamber",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Aged%20Chamber.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Chandra, Consulate Enforcer",
+	        "mana_cost": "{1}{U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://media.discordapp.net/attachments/967528463315632248/1101381406455763024/Chandra_Consulate_Enforcer.png"
+	        },
+	        "printed names": {
+	            "en": "Chandra, Consulate Enforcer"
+	        },
+	        "back": {
+	            "name": "Chandra, Harsh Suppressor",
+	            "printed_names": {
+	                "en": "Chandra, Harsh Suppressor"
+	            },
+	            "image_uris": {
+	                "en": "https://media.discordapp.net/attachments/967528463315632248/1101381405914714122/Chandra_Harsh_Suppressor.png"
+	            },
+	            "type": "Legendary Planeswalker — Chandra "
+	        }
+	    },
+	    {
+	        "name": "Zaril, Tempest Herald",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Legendary Creature — Merfolk ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Zaril%2c%20Tempest%20Herald.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gustha, Mage of Kjeldor",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Gustha%2c%20Mage%20of%20Kjeldor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Temporal Void",
+	        "rarity": "rare",
+	        "mana_cost": "{7}{U}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Temporal%20Void.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dragon Veil-Glider",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact Creature — Equipment Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Dragon%20Veil-Glider.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Twisted Inspiration",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Devoid Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Twisted%20Inspiration.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Esper Censor",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact Creature — Construct Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Esper%20Censor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gilded Drake",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Gilded%20Drake.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Timetwister",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Timetwister.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Replenish",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Replenish.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Academy Rector",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Academy%20Rector.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mox Sapphire",
+	        "rarity": "rare",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mox%20Sapphire.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mishra, Phyrexian Pawn",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Legendary Creature — Phyrexian Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mishra%2c%20Phyrexian%20Pawn.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Scion of Hogaak",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Skeleton Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Scion%20of%20Hogaak.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Living Blight",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}{B}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Living%20Blight.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Thalia, Scourge of Thraben",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Legendary Creature — Vampire Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Thalia%2c%20Scourge%20of%20Thraben.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Return to Bile",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Devoid Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Return%20to%20Bile.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Erode Mind",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Erode%20Mind.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Chains of Mephistopheles",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Chains%20of%20Mephistopheles.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Yawgmoth's Will",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Yawgmoth%27s%20Will.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Death's Inferno",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Death%27s%20Inferno.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eternities-Touched Hunter",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Devoid Creature — Human Ranger ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Eternities-Touched%20Hunter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Onatah, Anaba Shaman",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Legendary Creature — Minotaur Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Onatah%2c%20Anaba%20Shaman.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Flamekin Oriflamme",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Flamekin%20Oriflamme.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Endry, Vengeful Sprite",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Legendary Creature — Faerie Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Endry%2c%20Vengeful%20Sprite.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Recruitment Ploy",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Recruitment%20Ploy.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fuel for the Fire",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Fuel%20for%20the%20Fire.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Seasoned Pyromancer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Seasoned%20Pyromancer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wheel of Fortune",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Wheel%20of%20Fortune.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rootknot",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Rootknot.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Resonance",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Resonance.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iona, Shield of Tazeem",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Legendary Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Iona%2c%20Shield%20of%20Tazeem.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Greensleeves, Vindictive Archdruid",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Legendary Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Greensleeves%2c%20Vindictive%20Archdruid.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Corrupted Tender",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Devoid Creature — Eldrazi Elf ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Corrupted%20Tender.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hive Aristocrat",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Insect Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Hive%20Aristocrat.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fastbond",
+	        "rarity": "mythic",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Fastbond.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kozilek's Tilling",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Devoid Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Kozilek%27s%20Tilling.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Elvish Reclaimer",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Elvish%20Reclaimer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Devourer of Suns",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{C}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Devourer%20of%20Suns.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Knollridge Spell-Sower",
+	        "rarity": "common",
+	        "mana_cost": "{5}{W}{W}",
+	        "type": "Creature — Giant Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Knollridge%20Spell-Sower.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Icatian Company",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Icatian%20Company.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Void Spark",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Planeswalker",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Void%20Spark.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ivory Armor",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact Enchantment — Equipment Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ivory%20Armor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Skyline Watcher",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Artifact Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Skyline%20Watcher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Illusory Prisoner",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment Creature — Elf Illusion ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Illusory%20Prisoner.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Workshop Guardian",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact Creature — Dragon Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Workshop%20Guardian.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ghen's Apprentice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Wizard Student ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ghen%27s%20Apprentice.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "It That Eternally Waits",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Devoid Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/It%20That%20Eternally%20Waits.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Enlightened Tutor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Enlightened%20Tutor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ondu Battle Priest",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment Creature — Kor Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ondu%20Battle%20Priest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fiery Divination",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Fiery%20Divination.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Anaba Summoning",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Anaba%20Summoning.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lava Barbs",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Lava%20Barbs.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lightning Bolt",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Lightning%20Bolt.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Young Pyromancer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Young%20Pyromancer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Molten Sparkmaw",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Artifact Creature — Hellion ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Molten%20Sparkmaw.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Orcish Hunting Party",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Orc Ranger ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Orcish%20Hunting%20Party.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bloodthirsty Salvager",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Artifact Creature — Minotaur Berserker ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Bloodthirsty%20Salvager.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Anaba Flamespitter",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Minotaur Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Anaba%20Flamespitter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Burstfire Elemental",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental Elk ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Burstfire%20Elemental.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Seal of Anarchy",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Seal%20of%20Anarchy.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hoarding Horde",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Artifact Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Hoarding%20Horde.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mogg Rider",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Goblin Pilot ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mogg%20Rider.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Grapeshot",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Grapeshot.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Simian Spirit Guide",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Ape Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Simian%20Spirit%20Guide.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cathar Commando",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Cathar%20Commando.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Swords to Plowshares",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Swords%20to%20Plowshares.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Chilling Winds",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Chilling%20Winds.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Aethergrown Scuttler",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Crab ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Aethergrown%20Scuttler.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rooftop Watcher",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Artifact Creature — Gargoyle ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Rooftop%20Watcher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Plumb for Insight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Plumb%20for%20Insight.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Changeling Poppet",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Changeling%20Poppet.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ponder",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ponder.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Deceiver Beast",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Artifact Creature — Phyrexian Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Deceiver%20Beast.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Galvanizing Strongarm",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Galvanizing%20Strongarm.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Icebreath Companion",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Dragon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Icebreath%20Companion.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Spellswing Pendulus",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Spellswing%20Pendulus.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Counterspell",
+	        "rarity": "common",
+	        "mana_cost": "{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Counterspell.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vesuvan Operative",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Devoid Creature — Shapeshifter Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Vesuvan%20Operative.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Predestined Pisces",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment Creature — Fish ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Predestined%20Pisces.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "High Tide",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/High%20Tide.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kismet",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Kismet.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tinker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Tinker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Oubliette",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Oubliette.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Worms of the Hunger Tide",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Worm ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Worms%20of%20the%20Hunger%20Tide.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cabal Therapy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Cabal%20Therapy.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mind-Shredder Fiend",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B/P}",
+	        "type": "Devoid Creature — Phyrexian ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mind-Shredder%20Fiend.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Swamp Rat",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Rat Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Swamp%20Rat.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Byte Carrier",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Artifact Creature — Specter ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Byte%20Carrier.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Salvage Slasher",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Salvage%20Slasher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Steelpeeler",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Steelpeeler.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Strix Herder",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Artifact Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Strix%20Herder.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Obstinate Stonehoof",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Artifact Creature — Boar ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Obstinate%20Stonehoof.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Urborg Tribunal",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Urborg%20Tribunal.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Yixlid Lock",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Yixlid%20Lock.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Obscene Wealth",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Obscene%20Wealth.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Etherium Shards",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Etherium%20Shards.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Disciple of the Vault",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Disciple%20of%20the%20Vault.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wild Nacatl",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Cat Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Wild%20Nacatl.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Crop Rotation",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Crop%20Rotation.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wirewood Symbiote",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Wirewood%20Symbiote.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eldritch Harvest",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Devoid Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Eldritch%20Harvest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Echo of Oko",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Tribal Sorcery — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Echo%20of%20Oko.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Druidic Vows",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Druidic%20Vows.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ursa Mulcher",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Bear Beast Berserker Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ursa%20Mulcher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Apparition of the Woods",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}",
+	        "type": "Enchantment Creature — Illusion ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Apparition%20of%20the%20Woods.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Skyshroud Nurturer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Skyshroud%20Nurturer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Frenzied Gorilla",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Ape ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Frenzied%20Gorilla.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Animated Stegosaurus",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment Creature — Dinosaur Skeleton ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Animated%20Stegosaurus.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Channeler of Jund",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Viashino Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Channeler%20of%20Jund.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Quirion Outrider",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf Ranger ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Quirion%20Outrider.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Velis Vel Hermit",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Velis%20Vel%20Hermit.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Menagerie Guardian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Menagerie%20Guardian.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dream Warden",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}",
+	        "type": "Enchantment Creature — Spirit Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Dream%20Warden.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tidehollow Salvager",
+	        "rarity": "rare",
+	        "mana_cost": "{U/B}",
+	        "type": "Artifact Creature — Vedalken Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Tidehollow%20Salvager.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Favor of the Old Ways",
+	        "rarity": "rare",
+	        "mana_cost": "{R/G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Favor%20of%20the%20Old%20Ways.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Verduran Auramancer",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}",
+	        "type": "Enchantment Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Verduran%20Auramancer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Call to Service",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Call%20to%20Service.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Orcish Philosopher",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Creature — Orc Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Orcish%20Philosopher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fatal Error",
+	        "rarity": "rare",
+	        "mana_cost": "{0}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Fatal%20Error.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Human Error",
+	        "rarity": "rare",
+	        "mana_cost": "{0}",
+	        "type": "Creature — Human Error ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Human%20Error.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rime-Shield Druid",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Snow Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Rime-Shield%20Druid.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Psychatog",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Atog ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Psychatog.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kolaghan's Command",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Kolaghan%27s%20Command.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Femeref Enchantress",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Femeref%20Enchantress.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Squandered Resources",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Squandered%20Resources.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pygmy Hippo",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{U}",
+	        "type": "Creature — Hippo ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Pygmy%20Hippo.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Badlands",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Badlands.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Volcanic Island",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Island Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Volcanic%20Island.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Underground Sea",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Island Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Underground%20Sea.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tundra",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Plains Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Tundra.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tropical Island",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Forest Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Tropical%20Island.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Taiga",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Taiga.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Savannah",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Forest Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Savannah.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Plateau",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Plateau.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bayou",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Bayou.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Scrubland",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Plains Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Scrubland.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vault of Whispers",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Artifact Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Vault%20of%20Whispers.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ironwater Mine",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Mine ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ironwater%20Mine.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ancient Den",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Artifact Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ancient%20Den.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Deepwood Hideaway",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Deepwood%20Hideaway.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mystic Ford",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mystic%20Ford.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lake of the Dead",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Lake%20of%20the%20Dead.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Littjara, Shifting Glade",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Littjara%2c%20Shifting%20Glade.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Crucius, Etherium Master",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Legendary Artifact Creature — Sphinx ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Crucius%2c%20Etherium%20Master.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Silas Renn, Seasoned Seeker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Legendary Artifact Creature — Human ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Silas%20Renn%2c%20Seasoned%20Seeker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dusk Marauder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Artifact Creature — Demon Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Dusk%20Marauder.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dust Lord",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Creature — Sand ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Dust%20Lord.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eidren of Gilt-Leaf",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Legendary Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Eidren%20of%20Gilt-Leaf.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tide Sweeper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{R}",
+	        "type": "Creature — Merfolk ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Tide%20Sweeper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gargantuan Gardener",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Artifact Creature — Giant ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Gargantuan%20Gardener.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Alpha of the Unnatural",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Enchantment Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Alpha%20of%20the%20Unnatural.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Archival Kinmage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Creature — Human Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Archival%20Kinmage.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Persisting Thirst",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Persisting%20Thirst.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Desecrate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Desecrate.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shard of Blight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Devoid Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Shard%20of%20Blight.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vault Skirge",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B/P}",
+	        "type": "Artifact Creature — Phyrexian Imp ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Vault%20Skirge.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Stitcher's Supplier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Stitcher%27s%20Supplier.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Reckless Miner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Dwarf ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Reckless%20Miner.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Coiling Oil",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Artifact Creature — Naga Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Coiling%20Oil.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Putrid Imp",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Zombie Imp ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Putrid%20Imp.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dread Return",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Dread%20Return.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "It of the Tainted Blood",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Artifact Creature — Phyrexian Vampire ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/It%20of%20the%20Tainted%20Blood.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vectis Strix",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Artifact Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Vectis%20Strix.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Salvager Drone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Salvager%20Drone.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wisps' Claim",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Wisps%27%20Claim.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Toxic Behemoth",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Artifact Creature — Frog ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Toxic%20Behemoth.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Orcish Speedster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Orc Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Orcish%20Speedster.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Weed Killer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{W}",
+	        "type": "Artifact Creature — Scarecrow ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Weed%20Killer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bygone Motivator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment Creature — Spirit Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Bygone%20Motivator.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Oni of Many Paths",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Fox Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Oni%20of%20Many%20Paths.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Soul of the Sanctum",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Artifact Creature — Angel Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Soul%20of%20the%20Sanctum.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Houndkin Paladin",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Dog Knight Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Houndkin%20Paladin.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Atmospheric Silence",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Devoid Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Atmospheric%20Silence.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Forgive and Forget",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Forgive%20and%20Forget.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Comforting Stockpile",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Comforting%20Stockpile.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pentarch Boon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Pentarch%20Boon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mesa Enchantress",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mesa%20Enchantress.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cryptic Progenitor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment Creature — Elf Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Cryptic%20Progenitor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kutaani, Skemfar Intruder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Kutaani%2c%20Skemfar%20Intruder.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Riptide Amalgam",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Devoid Artifact Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Riptide%20Amalgam.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Moritte's Iceblinder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{U}",
+	        "type": "Snow Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Moritte%27s%20Iceblinder.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Factory Floor Overseer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Artifact Creature — Sphinx ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Factory%20Floor%20Overseer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sea Appropriator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Artifact Creature — Cephalid ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Sea%20Appropriator.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dreamshield",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Dreamshield.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "All Just a Dream",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Tribal Instant — Faerie ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/All%20Just%20a%20Dream.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Jettison",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Jettison.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eldritch Protrusion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Devoid Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Eldritch%20Protrusion.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Reravel",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Reravel.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Search for Azcanta",
+	        "mana_cost": "{1}{U}",
+	        "type": "Legendary Enchantment",
+	        "image_uris": {
+	            "en": "https://media.discordapp.net/attachments/967528463315632248/1101381406720008212/Search_for_Azcanta.png"
+	        },
+	        "printed names": {
+	            "en": "Search for Azcanta"
+	        },
+	        "back": {
+	            "name": "Azcanta, the Sunken Ruin",
+	            "printed_names": {
+	                "en": "Azcanta, the Sunken Ruin"
+	            },
+	            "image_uris": {
+	                "en": "https://media.discordapp.net/attachments/967528463315632248/1101381406967484496/Azcanta_the_Sunken_Ruin.png"
+	            },
+	            "type": "Legendary Land"
+	        }
+	    },
+	    {
+	        "name": "Mystical Tutor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mystical%20Tutor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Spelling Bee",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Spelling%20Bee.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bo Levar",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Legendary Planeswalker — Levar ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Bo%20Levar.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Time Walk",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Time%20Walk.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shattering Spree",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Shattering%20Spree.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Abbot of Keral Keep",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Abbot%20of%20Keral%20Keep.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Faithless Looting",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Faithless%20Looting.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dream of Glory",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Dream%20of%20Glory.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Magmablast",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Magmablast.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Spiteful Pilfering",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Spiteful%20Pilfering.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ghostfire Rain",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Devoid Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ghostfire%20Rain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Malicious Peformer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Artifact Creature — Devil Clown ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Malicious%20Peformer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sandstorm Shelter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Artifact Creature — Wall ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Sandstorm%20Shelter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Unx Lethemancer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{R}{R}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Unx%20Lethemancer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Earthspeaker Shaman",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Orc Barbarian Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Earthspeaker%20Shaman.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kozilek's Lieutenant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Devoid Creature — Eldrazi ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Kozilek%27s%20Lieutenant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mana Rig Technicians",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Viashino Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mana%20Rig%20Technicians.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fumarole Worm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Worm ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Fumarole%20Worm.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Empty the Warrens",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Empty%20the%20Warrens.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Skyshroud Platoon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Skyshroud%20Platoon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Past or Present",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Past%20or%20Present.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shefet Fertilizer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Zombie Jackal ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Shefet%20Fertilizer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Emrakul's Blessed",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Devoid Creature — Eldrazi Elf Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Emrakul%27s%20Blessed.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Llanowar Warmonger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}{G}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Llanowar%20Warmonger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mists of Abandon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mists%20of%20Abandon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sanctified Fracturing",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Sanctified%20Fracturing.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Veteran Explorer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human Soldier Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Veteran%20Explorer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Veil of Summer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Veil%20of%20Summer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Knit-Root Warden",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Enchantment Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Knit-Root%20Warden.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Survival of the Fittest",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Survival%20of%20the%20Fittest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Worldly Tutor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Worldly%20Tutor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Elvish Visionary",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Elvish%20Visionary.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Roving Clocktower",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Elemental Giant Peasant ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Roving%20Clocktower.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sliver Scout",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Sliver Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Sliver%20Scout.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lora, Argivian Metalworker",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{W}",
+	        "type": "Legendary Planeswalker — Lora ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Lora%2c%20Argivian%20Metalworker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Moat",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Moat.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Angel of Confiscation",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Angel%20of%20Confiscation.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Esper Mindblade",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Esper%20Mindblade.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Yawgmoth's Bargain",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Yawgmoth%27s%20Bargain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Leshrac, the Walker of Night",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Legendary Planeswalker — Leshrac ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Leshrac%2c%20the%20Walker%20of%20Night.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pyroblast",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Pyroblast.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Blood-Twin Sculptor",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Jackal Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Blood-Twin%20Sculptor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mulch Tender",
+	        "rarity": "mythic",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Insect Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mulch%20Tender.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Freyalise, Patron of Fyndhorn",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Legendary Planeswalker — Freyalise ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Freyalise%2c%20Patron%20of%20Fyndhorn.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Heritage Druid",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Heritage%20Druid.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tidehollow Sifter",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{U}",
+	        "type": "Artifact Creature — Crab ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Tidehollow%20Sifter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Augmented Mindthief",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Artifact Creature — Human Ninja ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Augmented%20Mindthief.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dread Extractor",
+	        "rarity": "common",
+	        "mana_cost": "{B}{R}",
+	        "type": "Artifact Creature — Phyrexian Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Dread%20Extractor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Orcish Steed",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Orcish%20Steed.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Qasali Gift",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Qasali%20Gift.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Serra Reaper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Enchantment Artifact Creature — Phyrexian Angel ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Serra%20Reaper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Onatah's Call",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Onatah%27s%20Call.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eye for an Eye",
+	        "rarity": "common",
+	        "mana_cost": "{B}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Eye%20for%20an%20Eye.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Searing Reinvigoration",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Searing%20Reinvigoration.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fyndhorn Rebuke",
+	        "rarity": "common",
+	        "mana_cost": "{G}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Fyndhorn%20Rebuke.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Scuttler of Skulls",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Creature — Eldrazi ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Scuttler%20of%20Skulls.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tradesman's Assistant",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Scarecrow ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Tradesman%27s%20Assistant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Juncture Beyond Time",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}{C}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Juncture%20Beyond%20Time.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rustic Plow",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Rustic%20Plow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fallen Star",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Fallen%20Star.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ravi, Apocalypse Ringer",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Legendary Planeswalker — Ravi ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ravi%2c%20Apocalypse%20Ringer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gitaxian Bauble",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Gitaxian%20Bauble.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Jar of Tempests",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Jar%20of%20Tempests.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Whispering Mine",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Whispering%20Mine.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mana Magnet",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mana%20Magnet.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sarpadian Warrens",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Sarpadian%20Warrens.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cranial Plating",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Cranial%20Plating.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Manifold Key",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Manifold%20Key.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Expedition Map",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Expedition%20Map.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sower of Raven's Run",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Scarecrow ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Sower%20of%20Raven%27s%20Run.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lotus Petal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Lotus%20Petal.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Catalogue Cleanser",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Catalogue%20Cleanser.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Xathrid Saltduster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Xathrid%20Saltduster.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Reassembly Module",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Reassembly%20Module.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Slagheap Tender",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Slagheap%20Tender.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Influence of the Eternities",
+	        "rarity": "mythic",
+	        "mana_cost": "{C}{C}",
+	        "type": "Legendary Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Influence%20of%20the%20Eternities.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Time Vault",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Time%20Vault.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Squadron Blade",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact Creature — Equipment Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Squadron%20Blade.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Omen of the Sun",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Omen%20of%20the%20Sun.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ethereal Armor",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ethereal%20Armor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Unsubstantiate",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Unsubstantiate.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Archaeomancer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Archaeomancer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ancestral Recall",
+	        "rarity": "mythic",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ancestral%20Recall.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Theina, Daughter of Yawgmoth",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Legendary Creature — Phyrexian Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Theina%2c%20Daughter%20of%20Yawgmoth.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bazaar of Baghdad",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Bazaar%20of%20Baghdad.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bury Deeper",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Bury%20Deeper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Baltrice, Tezzeret's Deputy",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{R}",
+	        "type": "Legendary Planeswalker — Baltrice ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Baltrice%2c%20Tezzeret%27s%20Deputy.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Instruments of Repair",
+	        "rarity": "common",
+	        "mana_cost": "{W}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Instruments%20of%20Repair.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pacification Module",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Pacification%20Module.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Biskelisus",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Phyrexian Carrier ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Biskelisus.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Greenhouse Caretaker",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Greenhouse%20Caretaker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Drone Overseer",
+	        "rarity": "common",
+	        "mana_cost": "{6}",
+	        "type": "Artifact Creature — Assembly-Worker ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Drone%20Overseer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Thran Puzzlebox",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Thran%20Puzzlebox.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Glimmering Powerstone",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Glimmering%20Powerstone.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eldrazi Conniption",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Eldrazi%20Conniption.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ichor Wellspring",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ichor%20Wellspring.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Chief of the Foundry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Chief%20of%20the%20Foundry.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Frogmite",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Frog ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Frogmite.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Arcbound Ravager",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Arcbound%20Ravager.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Archon of the Dead Lands",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Devoid Enchantment Creature — Archon ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Archon%20of%20the%20Dead%20Lands.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Esper Command",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{U}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Esper%20Command.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Maahriel, Orcish General",
+	        "rarity": "mythic",
+	        "mana_cost": "{B}{R}",
+	        "type": "Legendary Creature — Orc Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Maahriel%2c%20Orcish%20General.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Errant Dream",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment Creature — Illusion ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Errant%20Dream.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sword of Past and Future",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Sword%20of%20Past%20and%20Future.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wasteland",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Wasteland.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Canopy of Llanowar",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Elf Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Canopy%20of%20Llanowar.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Skysail Trading Post",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Skysail%20Trading%20Post.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wanderbrine Bog",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Wanderbrine%20Bog.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Refurbishing Station",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Refurbishing%20Station.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Unstable Foundry",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Unstable%20Foundry.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Barren Fields",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Wastes Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Barren%20Fields.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Still Lake",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Wastes Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Still%20Lake.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lifeless Marsh",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Wastes Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Lifeless%20Marsh.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Frigid Spire",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Wastes Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Frigid%20Spire.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hollow Woods",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Wastes Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Hollow%20Woods.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Warping Wail",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Warping%20Wail.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Thought-Knot Seer",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{C}",
+	        "type": "Creature — Eldrazi ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Thought-Knot%20Seer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ancient Tomb",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Ancient%20Tomb.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Walker of the Wastes",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{C}",
+	        "type": "Creature — Eldrazi ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Walker%20of%20the%20Wastes.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Exposed Rifts",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Exposed%20Rifts.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Blighted Crossing",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Blighted%20Crossing.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gaea's Cradle",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Gaea%27s%20Cradle.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Origin Shards",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Origin%20Shards.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Day of Opening Graves",
+	        "rarity": "common",
+	        "mana_cost": "{5}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Day%20of%20Opening%20Graves.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "What Kind of Power is This",
+	        "rarity": "common",
+	        "mana_cost": "{C}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/What%20Kind%20of%20Power%20is%20This.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Uncontrollable Mutation",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Uncontrollable%20Mutation.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Unlike Anything I've Ever Seen",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}",
+	        "type": "Creature — Jellyfish ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Unlike%20Anything%20I%27ve%20Ever%20Seen.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cultist of Gray Skies",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Cultist%20of%20Gray%20Skies.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "An Intriguing Creature Indeed",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/An%20Intriguing%20Creature%20Indeed.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shattered Soul",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "World Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Shattered%20Soul.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Align Your Will With Mine",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Align%20Your%20Will%20With%20Mine.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Voiding Licid",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Voiding%20Licid.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Your Silence is Appreciated",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Your%20Silence%20is%20Appreciated.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tolarian Mists",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{C}{C}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Tolarian%20Mists.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Abyssomancer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{C}",
+	        "type": "Creature — Horror Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Abyssomancer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Marie, Blessed by the Empty",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{C}{C}",
+	        "type": "Legendary Planeswalker — Marie ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Marie%2c%20Blessed%20by%20the%20Empty.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eldrazi Dreadnought",
+	        "rarity": "mythic",
+	        "mana_cost": "{15}{C}{C}",
+	        "type": "Creature — Eldrazi Dreadnought ",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Eldrazi%20Dreadnought.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Refurbish",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Refurbish.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mishra's Workshop",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Mishra%27s%20Workshop.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "City of Traitors",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/City%20of%20Traitors.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dark Recruitment",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Dark%20Recruitment.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Furnace of Old Phyrexia",
+	        "rarity": "mythic",
+	        "mana_cost": "{8}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Fungustober/Vintage-Horizons/blob/main/Furnace%20of%20Old%20Phyrexia.png?raw=true"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		2 Abyssomancer
+		2 Aged Chamber
+		2 Archon of the Dead Lands
+		2 Call to Service
+		2 Chandra, Consulate Enforcer
+		2 Corrupted Tender
+		2 Death's Inferno
+		2 Devourer of Suns
+		2 Dragon Veil-Glider
+		2 Dream Warden
+		2 Druid of the Winter Moon
+		2 Endry, Vengeful Sprite
+		2 Erode Mind
+		2 Esper Censor
+		2 Esper Mindblade
+		2 Eternities-Touched Hunter
+		2 Fatal Error
+		2 Favor of the Old Ways
+		2 Flamekin Oriflamme
+		2 Fridius, Telemin Master
+		2 Fuel for the Fire
+		2 Greensleeves, Vindictive Archdruid
+		2 Gustha, Mage of Kjeldor
+		2 Hive Aristocrat
+		2 Human Error
+		2 Iona, Shield of Tazeem
+		2 Kozilek's Tilling
+		2 Littjara, Shifting Glade
+		2 Living Blight
+		2 Memory of Avacyn
+		2 Mishra, Phyrexian Pawn
+		2 Norn's Altar
+		2 Onatah, Anaba Shaman
+		2 Orcish Philosopher
+		2 Origin Shards
+		2 Recruitment Ploy
+		2 Resonance
+		2 Return to Bile
+		2 Rime-Shield Druid
+		2 Rootknot
+		2 Scion of Hogaak
+		2 Temporal Void
+		2 Thalia, Scourge of Thraben
+		2 Theina, Daughter of Yawgmoth
+		2 Tidehollow Salvager
+		2 Time Marauder
+		2 Tolarian Mists
+		2 Twisted Inspiration
+		2 Urza, Argivian Librarian
+		2 Verduran Auramancer
+		2 War Effort
+		2 Your Silence is Appreciated
+		2 Zaril, Tempest Herald
+		1 Angel of Confiscation
+		1 Baltrice, Tezzeret's Deputy
+		1 Blood-Twin Sculptor
+		1 Bo Levar
+		1 Bury Deeper
+		1 Eldrazi Dreadnought
+		1 Esper Command
+		1 Freyalise, Patron of Fyndhorn
+		1 Furnace of Old Phyrexia
+		1 Influence of the Eternities
+		1 Leshrac, the Walker of Night
+		1 Lora, Argivian Metalworker
+		1 Maahriel, Orcish General
+		1 Marie, Blessed by the Empty
+		1 Mulch Tender
+		1 Ravi, Apocalypse Ringer
+		1 Spelling Bee
+		1 Sword of Past and Future
+	[AssortedReprintSlot(1)]
+		4 Ancient Den
+		4 Archaeomancer
+		4 Cathar Commando
+		4 Counterspell
+		4 Crop Rotation
+		4 Elvish Visionary
+		4 Ethereal Armor
+		4 Expedition Map
+		4 Frogmite
+		4 Grapeshot
+		4 Ichor Wellspring
+		4 Lightning Bolt
+		4 Manifold Key
+		4 Omen of the Sun
+		4 Oubliette
+		4 Ponder
+		4 Putrid Imp
+		4 Refurbish
+		4 Salvage Slasher
+		4 Shattering Spree
+		4 Simian Spirit Guide
+		4 Unsubstantiate
+		4 Vault of Whispers
+		4 Warping Wail
+		4 Wild Nacatl
+		4 Wirewood Symbiote
+		3 Badlands
+		3 Bayou
+		3 Plateau
+		3 Savannah
+		3 Scrubland
+		3 Taiga
+		3 Tropical Island
+		3 Tundra
+		3 Underground Sea
+		3 Volcanic Island
+		2 Academy Rector
+		2 Ancient Tomb
+		2 Black Lotus
+		2 Chains of Mephistopheles
+		2 Elvish Reclaimer
+		2 Femeref Enchantress
+		2 Gilded Drake
+		2 Kolaghan's Command
+		2 Lake of the Dead
+		2 Mox Emerald
+		2 Mox Jet
+		2 Mox Pearl
+		2 Mox Ruby
+		2 Mox Sapphire
+		2 Psychatog
+		2 Pygmy Hippo
+		2 Pyroblast
+		2 Replenish
+		2 Seasoned Pyromancer
+		2 Squandered Resources
+		2 Survival of the Fittest
+		2 Thought-Knot Seer
+		2 Timetwister
+		2 Yawgmoth's Bargain
+		1 Ancestral Recall
+		1 Bazaar of Baghdad
+		1 Fastbond
+		1 Gaea's Cradle
+		1 Mishra's Workshop
+		1 Moat
+		1 Time Vault
+		1 Time Walk
+		1 Wheel of Fortune
+		1 Yawgmoth's Will
+	[UncommonReprintSlot(1)]
+		3 Abbot of Keral Keep
+		3 Arcbound Ravager
+		3 Cabal Therapy
+		3 Chief of the Foundry
+		3 City of Traitors
+		3 Cranial Plating
+		3 Disciple of the Vault
+		3 Dread Return
+		3 Empty the Warrens
+		3 Enlightened Tutor
+		3 Faithless Looting
+		3 Heritage Druid
+		3 High Tide
+		3 Kismet
+		3 Lotus Petal
+		3 Mesa Enchantress
+		3 Mystical Tutor
+		3 Search for Azcanta
+		3 Stitcher's Supplier
+		3 Swords to Plowshares
+		3 Tinker
+		3 Veil of Summer
+		3 Veteran Explorer
+		3 Walker of the Wastes
+		3 Worldly Tutor
+		3 Young Pyromancer
+	[UncommonSlot(2)]
+		3 Align Your Will With Mine
+		3 All Just a Dream
+		3 Alpha of the Unnatural
+		3 An Intriguing Creature Indeed
+		3 Anaba Summoning
+		3 Archival Kinmage
+		3 Atmospheric Silence
+		3 Blighted Crossing
+		3 Bygone Motivator
+		3 Canopy of Llanowar
+		3 Catalogue Cleanser
+		3 Coiling Oil
+		3 Comforting Stockpile
+		3 Crucius, Etherium Master
+		3 Cryptic Progenitor
+		3 Deceiver Beast
+		3 Desecrate
+		3 Dream of Glory
+		3 Dreamshield
+		3 Dusk Marauder
+		3 Dust Lord
+		3 Earthspeaker Shaman
+		3 Eidren of Gilt-Leaf
+		3 Eldritch Protrusion
+		3 Emrakul's Blessed
+		3 Factory Floor Overseer
+		3 Forgive and Forget
+		3 Frenzied Gorilla
+		3 Fumarole Worm
+		3 Gargantuan Gardener
+		3 Ghen's Apprentice
+		3 Gitaxian Bauble
+		3 Houndkin Paladin
+		3 Icatian Company
+		3 It of the Tainted Blood
+		3 Jar of Tempests
+		3 Jettison
+		3 Knit-Root Warden
+		3 Kozilek's Lieutenant
+		3 Kutaani, Skemfar Intruder
+		3 Llanowar Warmonger
+		3 Magmablast
+		3 Malicious Peformer
+		3 Mana Magnet
+		3 Mana Rig Technicians
+		3 Menagerie Guardian
+		3 Mists of Abandon
+		3 Moritte's Iceblinder
+		3 Orcish Speedster
+		3 Pacification Module
+		3 Past or Present
+		3 Pentarch Boon
+		3 Persisting Thirst
+		3 Plumb for Insight
+		3 Reassembly Module
+		3 Reckless Miner
+		3 Refurbishing Station
+		3 Salvager Drone
+		3 Sanctified Fracturing
+		3 Sandstorm Shelter
+		3 Sarpadian Warrens
+		3 Sea Appropriator
+		3 Serra Reaper
+		3 Shard of Blight
+		3 Shattered Soul
+		3 Shefet Fertilizer
+		3 Silas Renn, Seasoned Seeker
+		3 Skysail Trading Post
+		3 Skyshroud Platoon
+		3 Slagheap Tender
+		3 Sliver Scout
+		3 Soul of the Sanctum
+		3 Sower of Raven's Run
+		3 Spiteful Pilfering
+		3 Tide Sweeper
+		3 Toxic Behemoth
+		3 Unstable Foundry
+		3 Unx Lethemancer
+		3 Vectis Strix
+		3 Voiding Licid
+		3 Wanderbrine Bog
+		3 Weed Killer
+		3 Whispering Mine
+		3 Wisps' Claim
+		3 Xathrid Saltduster
+		3 Yixlid Lock
+	[CommonReprintSlot(3)]
+		6 Ancient Den
+		6 Archaeomancer
+		6 Cathar Commando
+		6 Counterspell
+		6 Crop Rotation
+		6 Elvish Visionary
+		6 Ethereal Armor
+		6 Expedition Map
+		6 Frogmite
+		6 Grapeshot
+		6 Ichor Wellspring
+		6 Lightning Bolt
+		6 Manifold Key
+		6 Omen of the Sun
+		6 Oubliette
+		6 Ponder
+		6 Putrid Imp
+		6 Refurbish
+		6 Salvage Slasher
+		6 Shattering Spree
+		6 Simian Spirit Guide
+		6 Unsubstantiate
+		6 Vault of Whispers
+		6 Warping Wail
+		6 Wild Nacatl
+		6 Wirewood Symbiote
+	[CommonSlot(7)]
+		6 Aethergrown Scuttler
+		6 Anaba Flamespitter
+		6 Animated Stegosaurus
+		6 Apparition of the Woods
+		6 Augmented Mindthief
+		6 Barren Fields
+		6 Biskelisus
+		6 Bloodthirsty Salvager
+		6 Burstfire Elemental
+		6 Byte Carrier
+		6 Changeling Poppet
+		6 Channeler of Jund
+		6 Chilling Winds
+		6 Cultist of Gray Skies
+		6 Dark Recruitment
+		6 Day of Opening Graves
+		6 Deepwood Hideaway
+		6 Dread Extractor
+		6 Drone Overseer
+		6 Druidic Vows
+		6 Echo of Oko
+		6 Eldrazi Conniption
+		6 Eldritch Harvest
+		6 Errant Dream
+		6 Etherium Shards
+		6 Exposed Rifts
+		6 Eye for an Eye
+		6 Fallen Star
+		6 Fiery Divination
+		6 Frigid Spire
+		6 Fyndhorn Rebuke
+		6 Galvanizing Strongarm
+		6 Ghostfire Rain
+		6 Glimmering Powerstone
+		6 Greenhouse Caretaker
+		6 Hoarding Horde
+		6 Hollow Woods
+		6 Icebreath Companion
+		6 Illusory Prisoner
+		6 Instruments of Repair
+		6 Ironwater Mine
+		6 It That Eternally Waits
+		6 Ivory Armor
+		6 Juncture Beyond Time
+		6 Knollridge Spell-Sower
+		6 Lava Barbs
+		6 Lifeless Marsh
+		6 Mind-Shredder Fiend
+		6 Mogg Rider
+		6 Molten Sparkmaw
+		6 Mystic Ford
+		6 Obscene Wealth
+		6 Obstinate Stonehoof
+		6 Onatah's Call
+		6 Ondu Battle Priest
+		6 Oni of Many Paths
+		6 Orcish Hunting Party
+		6 Orcish Steed
+		6 Predestined Pisces
+		6 Qasali Gift
+		6 Quirion Outrider
+		6 Reravel
+		6 Riptide Amalgam
+		6 Rooftop Watcher
+		6 Roving Clocktower
+		6 Rustic Plow
+		6 Scuttler of Skulls
+		6 Seal of Anarchy
+		6 Searing Reinvigoration
+		6 Skyline Watcher
+		6 Skyshroud Nurturer
+		6 Spellswing Pendulus
+		6 Squadron Blade
+		6 Steelpeeler
+		6 Still Lake
+		6 Strix Herder
+		6 Swamp Rat
+		6 Thran Puzzlebox
+		6 Tidehollow Sifter
+		6 Tradesman's Assistant
+		6 Uncontrollable Mutation
+		6 Unlike Anything I've Ever Seen
+		6 Urborg Tribunal
+		6 Ursa Mulcher
+		6 Vault Skirge
+		6 Velis Vel Hermit
+		6 Vesuvan Operative
+		6 Void Spark
+		6 What Kind of Power is This
+		6 Workshop Guardian
+		6 Worms of the Hunger Tide
